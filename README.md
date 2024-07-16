@@ -1,2 +1,6 @@
 # Data-Analytics
-My Study of Data Analytics
+Laboratoria Proyecto 2 Hipòtesis
+
+
+
+
